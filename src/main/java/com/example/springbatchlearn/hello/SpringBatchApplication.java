@@ -1,4 +1,4 @@
-package com.example.springbatchlearn;
+package com.example.springbatchlearn.hello;
 
 import org.springframework.batch.core.configuration.annotation.EnableBatchProcessing;
 import org.springframework.boot.SpringApplication;
